@@ -1,3 +1,20 @@
+/*
+/**
+ * Guía 1 - Ejercicio 2: Uso de la función push
+ *
+ * Crea una pila vacía y luego agrega dos elementos (a y b)
+ * utilizando la función push. El objetivo es que el elemento `a`
+ * quede sobre `b` (es decir, `a` debe ser el tope de la pila).
+ *
+ * Finalmente, se recorre la pila imprimiendo sus valores desde el tope
+ * hacia el fondo, vaciándola en el proceso.
+ *
+ * Aprendizaje: comprensión del comportamiento LIFO de una pila y
+ * cómo se estructura mediante punteros.
+ */
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
