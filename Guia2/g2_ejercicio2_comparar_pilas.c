@@ -1,3 +1,17 @@
+/**
+ * Guía 2 - Ejercicio 2: Comparar si dos pilas son iguales
+ *
+ * Se generan dos pilas con `n` valores aleatorios cada una, dentro del intervalo [a, b],
+ * leyendo los valores desde la línea de comandos. Cada iteración genera dos números diferentes.
+ *
+ * La función `sonIguales` compara las pilas elemento a elemento, desde el tope hacia abajo,
+ * sin destruirlas, usando copias internas.
+ *
+ * Aprendizaje: comparación estructural de pilas, clonado de estructuras dinámicas,
+ * y validación de igualdad profunda en estructuras LIFO.
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
