@@ -1,3 +1,22 @@
+/*
+/**
+ * Guía 1 - Ejercicio 4: Matriz de pilas y mayor tope
+ *
+ * Este programa implementa el uso de una matriz compuesta por pilas.
+ * Se definen tres funciones principales:
+ *  - `crearMatrizPilas`: inicializa una matriz con n pilas vacías.
+ *  - `agregarElementoPila`: inserta un nuevo elemento en la pila seleccionada.
+ *  - `mayorElemento`: recorre los topes de cada pila y retorna el mayor valor entre ellos.
+ *
+ * En el main se crean 3 pilas dentro de una matriz, se insertan valores,
+ * y se determina cuál es el mayor valor ubicado en el tope de alguna pila.
+ *
+ * Aprendizaje: trabajo con arreglos de pilas, manipulación estructurada de memoria dinámica,
+ * y comprensión del acceso a estructuras anidadas.
+ */
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
