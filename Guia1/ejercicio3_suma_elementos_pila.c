@@ -1,3 +1,20 @@
+/*
+/**
+ * Guía 1 - Ejercicio 3: Suma de elementos en una pila
+ *
+ * Este programa define una función `suma` que recibe una pila como parámetro
+ * y retorna la suma de todos sus elementos sin modificar su contenido.
+ *
+ * Para lograrlo, se clona la pila y se recorre la copia acumulando los valores.
+ * 
+ * En el main, se construye una pila con 2 elementos, se muestra la suma total
+ * y luego se imprime el tope actual para demostrar que la pila original quedó intacta.
+ *
+ * Aprendizaje: uso de punteros, manipulación segura de estructuras dinámicas,
+ * e implementación de operaciones sin efectos colaterales.
+ */
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
