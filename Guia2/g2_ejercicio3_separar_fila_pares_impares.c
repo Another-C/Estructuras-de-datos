@@ -1,3 +1,17 @@
+/**
+ * Guía 2 - Ejercicio 3: Separar pares e impares desde una fila
+ *
+ * Se genera una fila con `n` valores aleatorios dentro del rango [a, b],
+ * y luego se separan en dos pilas: una con números pares y otra con impares.
+ *
+ * La función `separaParesImpares` recorre la fila y distribuye los elementos
+ * en las pilas correspondientes según su paridad.
+ *
+ * Aprendizaje: clasificación de datos usando estructuras auxiliares,
+ * manipulación dinámica sin perder datos originales, y comprensión del recorrido FIFO con distribución LIFO.
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
