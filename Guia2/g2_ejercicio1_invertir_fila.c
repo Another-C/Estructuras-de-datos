@@ -1,3 +1,19 @@
+/*
+/**
+ * Guía 2 - Ejercicio 1: Invertir el contenido de una fila
+ *
+ * Este programa genera 10 valores aleatorios entre 10 y 99,
+ * los inserta en una fila, y luego invierte su orden utilizando una pila auxiliar.
+ *
+ * La función `invertirFila` saca cada elemento de la fila y lo inserta en una pila,
+ * para luego reconstruir la fila con el orden invertido.
+ *
+ * Aprendizaje: uso combinado de estructuras FIFO (fila) y LIFO (pila)
+ * para modificar el orden de los datos.
+ */
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
